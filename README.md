@@ -77,38 +77,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dilshan2002104-cpu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshan2002104-cpu&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilshan2002104-cpu&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dilshan2002104-cpu&theme=onedark&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dilshan2002104-cpu&repo=your-awesome-project&theme=tokyonight)](https://github.com/dilshan2002104-cpu/your-awesome-project)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dilshan2002104-cpu&repo=another-cool-project&theme=tokyonight)](https://github.com/dilshan2002104-cpu/another-cool-project)
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -118,16 +86,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio-site.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-handle)
-
-</div>
-
----
-
-## 💡 Quote of the Day
-
-<div align="center">
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
