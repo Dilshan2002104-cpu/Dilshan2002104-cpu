@@ -18,7 +18,7 @@
 - 🌱 I'm currently learning **Advanced React Patterns & Cloud Architecture**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **React, Node.js, Flutter, Python**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **praveendilshanr@gmail.com**
 - ⚡ Fun fact: **I love turning coffee into code! ☕**
 
 ---
