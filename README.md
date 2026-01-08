@@ -1,6 +1,6 @@
 <div align="center">
 
-# �‍💻 Dilshan Rathnayake
+# �‍💻 Dilshan Ranabahu
 
 ### 🚀 Full Stack Developer | 🤖 AI Enthusiast | 🇱🇰 Sri Lanka
 
